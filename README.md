@@ -1,4 +1,4 @@
-#[derive(Debug)]
+```#[derive(Debug)]
 struct TechStack {
     languages: Vec<&'static str>,
     major: String,
@@ -6,6 +6,7 @@ struct TechStack {
     datalake: &'static str,
 }
 fn main() {
+
     let tech_stack = TechStack {
         languages: vec!["Rust", "Haskell", "Python"],
         major: String::from ("Networking"),
@@ -14,4 +15,4 @@ fn main() {
     };
     
     println!("Tech Stack: {:#?}", tech_stack);
-}
+}```
