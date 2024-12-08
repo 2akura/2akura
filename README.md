@@ -1,4 +1,5 @@
-```#[derive(Debug)]
+```rs
+#[derive(Debug)]
 struct TechStack {
     languages: Vec<&'static str>,
     major: String,
