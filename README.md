@@ -1,5 +1,6 @@
-rustacean,and also a python!
+rust, haskell, python!
 ,netowrking major
-,next language is heskell maybe
 ,database: PostgreSQL,Cassandra
-datalake:snowflake 
+datalake: Snowflake 
+i luv OSPf
+my ip is 224.0.0.6
