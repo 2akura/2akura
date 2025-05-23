@@ -12,7 +12,7 @@ struct TechStack {
 fn main() {
 
     let tech_stack = TechStack {
-        languages: vec!["Rust", "Haskell", "Python"],
+        languages: vec!["Rust", "Haskell", "Python", "html", "css", "js", "C"],
         major: String::from ("Networking"),
         databases: vec ! [ "PostgreSQL" , "Cassandra" ],
         datalake: "Snowflake",
