@@ -18,7 +18,7 @@ fn main() {
         major: String::from ("Networking"),
         databases: vec ! [ "PostgreSQL" , "Cassandra" ],
         datalake: "Snowflake",
-        related coursework: ( System Design, Algorithm Analyst)
+        related coursework: ( "System Design", "Algorithm Analyst")
     };
     
     println!("Tech Stack: {:#?}", tech_stack);
